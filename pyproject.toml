@@ -11,7 +11,8 @@ dependencies = [
     "pypdf",            # Do odczytu plików PDF
     "python-docx",      # Do odczytu plików .docx
     "EbookLib",         # Do odczytu plików .epub
-    "loguru"            # Zaawansowana i prosta w użyciu biblioteka do logowania
+    "loguru",           # Zaawansowana i prosta w użyciu biblioteka do logowania
+    "gunicorn"
 ]
 
 [project.optional-dependencies]
